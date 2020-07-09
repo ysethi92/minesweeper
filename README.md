@@ -1,3 +1,3 @@
-# minesweeper
+# Minesweeper
 
 Minesweeper using Flutter.
